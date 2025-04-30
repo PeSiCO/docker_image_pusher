@@ -5,7 +5,8 @@
 #ertagh/teamspeak3-server:latest-predownloaded
 #jlesage/firefox
 #0nlylty/dockercopilot:ZSPACE
---platform=linux/arm64 0nlylty/one-key-update:zspace
+#--platform=linux/arm64 0nlylty/one-key-update:zspace
+--platform=linux/arm64 0nlylty/one-key-update:UGREEN
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
